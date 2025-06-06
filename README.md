@@ -12,6 +12,8 @@ Say goodbye to hunting down commands and copy-pasting; Ubuntuable makes personal
 
 ---
 
+![](./images/features.png)
+
 ## Features
 
   * **System Update & Upgrade:** Keeps your Ubuntu system packages up-to-date.
@@ -61,7 +63,11 @@ Say goodbye to hunting down commands and copy-pasting; Ubuntuable makes personal
     ```
 
     A graphical welcome message will appear, followed by a list of customization options. Select the tasks you wish to perform and click **"OK."** The script will then guide you through the process with progress dialogs.
-
+4. **Logs:**
+    If you encounter any issues, you can check the detailed log at: 
+    ```
+    $HOME/ubuntuable.log
+    ```
 ---
 
 ## Contributing
